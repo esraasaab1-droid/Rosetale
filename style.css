@@ -408,3 +408,9 @@ html, body {
     .main-footer-container { flex-direction: column; text-align: center; }
     .main-footer-container ul { text-align: center; }
 }
+.fa-brands {
+    color: white;
+}
+.fa-brands:hover {
+    color: #e56471;
+}
