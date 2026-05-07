@@ -414,3 +414,10 @@ html, body {
 .fa-brands:hover {
     color: #e56471;
 }
+@media (max-width: 600px) {
+}.main-nav ul {
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+    flex-wrap: wrap;
+}
